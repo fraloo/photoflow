@@ -1,0 +1,25 @@
+{
+  "name": "photoflow",
+  "version": "1.0.0",
+  "description": "Creata flows of photos with family and friends",
+  "main": "app/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "do test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraloo/photoflow.git"
+  },
+  "keywords": [
+    "photos"
+  ],
+  "author": "Frank Lood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraloo/photoflow/issues"
+  },
+  "homepage": "https://github.com/fraloo/photoflow#readme"
+}
