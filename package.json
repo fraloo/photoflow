@@ -2,7 +2,7 @@
   "name": "photoflow",
   "version": "1.0.0",
   "description": "Create flows of photos with family and friends",
-  "main": "./app/index.js",
+  "main": "app/index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
