@@ -3,7 +3,6 @@ var http = require('http');
 
 //Lets define a port we want to listen to
 const PORT = process.env.OPENSHIFT_NODEJS_PORT || 1337; 
-// const PORT = 7331; 
 
 //We need a function which handles requests and send response
 function handleRequest( request, response ){
